@@ -6,6 +6,6 @@ I learn new things pretty quickly. So, if there's a new technology or skill need
 
 All in all, I am a tech enthusiast who is always ready to learn and help. Whether it is with coding, new tech, or any other challenge, I am here to give it my best.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarang-Nambiar&theme=tokyonight&show_icons=true)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarang-Nambiar&theme=tokyonight&show_icons=true) -->
 
-![Snake animation](https://github.com/Sarang-Nambiar/Sarang-Nambiar/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Sarang-Nambiar/Sarang-Nambiar/blob/output/github-contribution-grid-snake.svg) -->
